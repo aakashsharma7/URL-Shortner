@@ -1,4 +1,4 @@
-🚀# URL Shortener
+🚀URL Shortener
 
 A sleek, minimal, and efficient URL shortener built with React.js, Supabase, ShadCN UI, and Tailwind CSS. This application allows users to shorten long URLs into compact, shareable links with a modern and responsive interface.
 
